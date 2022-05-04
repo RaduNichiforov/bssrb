@@ -25,6 +25,11 @@
 	      <p>La Bassarab vă oferim narghilele de calitate, cu o gamă de arome unice în Iași.Ai aroma preferată într-un creuzet unic în design, de calitate premium, care-ți va păstra un gust fresh și aromat exact așa cum îți dorești. Enjoy a unique experience and inhale only the best!</p>
 	      <img src="arome1.jpg">
 	    </div>
+      <div id="narghil">
+	      <h2>Narghileaua BASSARAB</h2>
+	      <p>Creuzetul, un mic vas ce conține aroma pentru narghilea și cărbunii acesteia; Scrumiera pentru cenușa de la cărbuni și un clește
+pentru mânuirea cărbunilor; Coloana sau trunchiul propriu-zis al narghileiei; Furtunul este tubul ce permite inhalarea fumului, la capăt având un muștiuc din plastic, metal, sau chiar și lemn; Vasul cu apă: la dorință, în apă pot fi adăugate cuburi de gheață, fructe, sau chiar și frunze din mentă.</p>
+	    </div>
     </main>
   </body>
 </html>
