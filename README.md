@@ -10,7 +10,7 @@
       <nav>
         <ul>
           <li><a href="prod">Produse & Servicii</a></li>
-          <li><a href="media">Media</a></li>
+          <li><a href="Media">Media</a></li>
 	  <li><a href="about">About us</a></li>
           <li><a href="footer">About</a></li>
         </ul>
