@@ -17,9 +17,8 @@
       </nav>
     </header>
     <main>
-      <div class="firstpic">
-	<h1>BASSARAB</h1>
-	<img src="bsrb main.jpeg">
+      <div class="top">
+	<img src="bsrbmain.jpeg">
     </main>
   </body>
 </html>
