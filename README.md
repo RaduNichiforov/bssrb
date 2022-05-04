@@ -19,6 +19,12 @@
     <main>
       <div class="top">
 	<img src="bsrbmain.jpg">
+     	    </div>
+      <div id="arom">
+	      <h2>Descopera noile arome</h2>
+	      <p>La Bassarab vă oferim narghilele de calitate, cu o gamă de arome unice în Iași.Ai aroma preferată într-un creuzet unic în design, de calitate premium, care-ți va păstra un gust fresh și aromat exact așa cum îți dorești. Enjoy a unique experience and inhale only the best!</p>
+	      <img src="arome1">
+	    </div>
     </main>
   </body>
 </html>
