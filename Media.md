@@ -4,8 +4,9 @@
     <h1>Where do you find us on social media</h1>
       <main>
       <img src="bsrbmain.jpg">
-      <p>Instagram : bassarab_hookah </p>
-      <p>Facebook : @BassarabHookah </p>
+        <ul>
+      <li><a href="https://www.facebook.com/BassarabHookah/">Instagram : bassarab_hookah</a></li>
+      <li>Facebook : @BassarabHookah </li>
 
 
 
