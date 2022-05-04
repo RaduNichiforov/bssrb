@@ -29,7 +29,7 @@
 	      <h2>Narghileaua BASSARAB</h2>
 	      <p>Creuzetul, un mic vas ce conține aroma pentru narghilea și cărbunii acesteia; Scrumiera pentru cenușa de la cărbuni și un clește
 pentru mânuirea cărbunilor; Coloana sau trunchiul propriu-zis al narghileiei; Furtunul este tubul ce permite inhalarea fumului, la capăt având un muștiuc din plastic, metal, sau chiar și lemn; Vasul cu apă: la dorință, în apă pot fi adăugate cuburi de gheață, fructe, sau chiar și frunze din mentă.</p>
-	      <img id="narghilea1" src="narghil.jpg">
+	      <img id="nargilea" src="narghil.jpg">
 	    </div>
     </main>
   </body>
