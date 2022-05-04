@@ -5,8 +5,8 @@
       <main>
       <img src="bsrbmain.jpg">
         <ul>
-      <li>Instagram : bassarab_hookah </li>
-      <li>Facebook : <a href="https://www.facebook.com/BassarabHookah/">@BassarabHookah </a></li>
+         <li>Instagram : <a href="https://www.instagram.com/bassarab_hookah/"> bassarab_hookah </a></li>
+         <li>Facebook : <a href="https://www.facebook.com/BassarabHookah/"> @BassarabHookah </a></li>
       
 
 
